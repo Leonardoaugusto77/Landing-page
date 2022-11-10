@@ -1,0 +1,30 @@
+header{
+    margin-bottom: -100px;
+}
+
+.section-01{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.image_01 img{
+ 
+    width: 90vh !important;
+   
+}
+
+.area_title{
+    text-align: center;
+}
+
+.section-cards h1{
+    text-align: center;
+}
+
+.cards .card{
+    display: flex;
+    flex-direction: column;
+}
